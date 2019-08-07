@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.xamarin.applinksdemo",
+    "sha256_cert_fingerprints": ["C0:1D:AB:CE:03:11:C1:E4:20:7E:78:E6:2A:84:31:87:05:77:22:0E:EC:B2:B0:46:B0:35:18:54:AD:E5:22:A0"]
+  }
+}]
